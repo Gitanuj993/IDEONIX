@@ -7,8 +7,8 @@
 
 
 ## What we write in this file ?
-1. That day's tasks and goals.
-2. That day's activity.
+1. Tasks and goals for the day.
+2. Daily activity log.
 3. That day's objective and conclusions.
 
 
