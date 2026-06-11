@@ -3,7 +3,7 @@
 **This section will tell us what we do and what we did**
 ## Structure of this section
 1. a file named with date should be placed in this section.
-2. on next day the file will be transfered into respective month or year directory.
+2. on next day the file will be transferred into respective month or year directory.
 
 
 ## What we write in this file ?
