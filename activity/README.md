@@ -12,7 +12,7 @@
 3. That day's objective and conclusions.
 
 
-## who  is responsible for its  management and correctness on daily basis ?
+## Who is responsible for its management and correctness on daily basis?
 1. A dedicated team member will be appointed.
 2. information present in it can be changed and modified by any member after approval.
 
